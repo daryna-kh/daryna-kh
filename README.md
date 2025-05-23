@@ -21,8 +21,8 @@
 Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
 - 🔭 I’m currently working on [Users Management Interface](https://github.com/daryna-kh/usersManagement)
-- 🌱 I’m learning advanced TypeScript patterns
-- 💬 Ask me about JavaScript and frontend performance
+- 🧩 I love solving coding challenges
+- 📄 Check out my [CV](https://example.com/daryna-cv.pdf)
 
 ---
 
@@ -35,47 +35,52 @@ Hi, I'm **Daryna**—a passionate developer who loves building things with code.
   <img src="https://skillicons.dev/icons?i=css" alt="css" />
   <img src="https://skillicons.dev/icons?i=html" alt="html" />
   <img src="https://skillicons.dev/icons?i=js" alt="js" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="ts" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="sass" />
   <img src="https://skillicons.dev/icons?i=less" alt="less" />
   <img src="https://skillicons.dev/icons?i=regex" alt="regex" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="sass" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="ts" />
 </p>
 
 ### Frameworks & Tools
 
 <p>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" />
+  <img src="https://skillicons.dev/icons?i=gulp" alt="gulp" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" />
+  <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=antdesign" alt="antdesign" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" />
   <img src="https://skillicons.dev/icons?i=react" alt="react" />
   <img src="https://skillicons.dev/icons?i=redux" alt="redux" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" />
-  <img src="https://skillicons.dev/icons?i=express" alt="express" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" />
-  <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" />
   <img src="https://skillicons.dev/icons?i=vite" alt="vite" />
   <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" />
 </p>
 
 ### Softwares
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
-  <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=vscodium" alt="vscodium" />
   <img src="https://skillicons.dev/icons?i=codepen" alt="codepen" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
   <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" />
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
-  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
-  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=svg" alt="svg" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
   <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shopify" alt="shopify" />
 </p>
-
----
 
 ## 📊 Activity & Stats
 
@@ -83,21 +88,27 @@ Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
 - **2025**
   <p>
-    <img src="./screens/contributions-2025.png" alt="Contributions calendar" width="600" />
+    <img src="./screens/activity-2025.png" alt="Activity in 2025" width="600" />
   </p>
 - **2024**
   <p>
-    <img src="./screens/contributions-2024.png" alt="Contributions calendar" width="600" />
+    <img src="./screens/activity-2024.png" alt="Activity in 2024" width="600" />
   </p>
 - **2023**
   <p>
-    <img src="./screens/contributions-2023.png" alt="Contributions calendar" width="600" />
+    <img src="./screens/activity-2023.png" alt="Activity in 2023" width="600" />
+  </p>
+- **2022**
+  <p>
+    <img src="./screens/activity-2022.png" alt="Activity in 2022" width="600" />
   </p>
 
-- **2022**
+### Activity overview by metric:
 
   <p>
-    <img src="./screens/contributions-2022.png" alt="Contributions calendar" width="600" />
+    <img src="./screens/activity-overview.png"
+       alt="Radar chart showing 63% Commits, 32% Pull Requests, 5% Issues, and 0% Code Review"
+       style="max-width: 100%; height: auto;" />
   </p>
 
 ### Top Languages
