@@ -1,8 +1,8 @@
 ![Waving Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:20B2AA,100:98FF98&text=DARYNA-KH&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40)
 
-![Welcome to My GitHub!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=2000&color=00FF00&background=00000000&center=true&width=600&height=100&lines=Welcome+to+My+GitHub!)
+![Welcome to My GitHub!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=2000&color=00FF00&background=00000000&width=600&height=100&lines=Welcome+to+My+GitHub!)
 
-![Hello Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=FFFFFF&background=00000000&center=true&width=600&height=80&lines=%F0%9F%8C%9F+Hello%2C+I%27m+Daryna!;%F0%9F%92%BB+I+build+things+with+code;%F0%9F%9A%80+Let%27s+collaborate!)
+![Hello Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=FFFFFF&background=00000000&width=600&height=80&lines=%F0%9F%8C%9F+Hello%2C+I%27m+Daryna!;%F0%9F%92%BB+I+build+things+with+code;%F0%9F%9A%80+Let%27s+collaborate!)
 
 ---
 
