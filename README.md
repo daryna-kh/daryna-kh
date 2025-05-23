@@ -8,11 +8,11 @@
 
 <!-- Badges -->
 
-![Stars](https://img.shields.io/github/stars/daryna-kh/your-repo?style=social)
-![Forks](https://img.shields.io/github/forks/daryna-kh/your-repo?style=social)
-![Commits](https://img.shields.io/github/commit-activity/m/daryna-kh/your-repo)
-![Issues](https://img.shields.io/github/issues/daryna-kh/your-repo)
-![PRs](https://img.shields.io/github/issues-pr/daryna-kh/your-repo)
+![Stars](https://img.shields.io/github/stars/daryna-kh/usersManagement?style=social)
+![Forks](https://img.shields.io/github/forks/daryna-kh/usersManagement?style=social)
+![Commits](https://img.shields.io/github/commit-activity/m/daryna-kh/usersManagement)
+![Issues](https://img.shields.io/github/issues/daryna-kh/usersManagement)
+![PRs](https://img.shields.io/github/issues-pr/daryna-kh/usersManagement)
 
 ---
 
@@ -20,7 +20,7 @@
 
 Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
-- 🔭 I’m currently working on [Your Current Project](https://github.com/daryna-kh/your-repo)
+- 🔭 I’m currently working on [Your Current Project](https://github.com/daryna-kh/usersManagement)
 - 🌱 I’m learning advanced TypeScript patterns & Rust
 - 💬 Ask me about JavaScript, Node.js, and frontend performance
 
