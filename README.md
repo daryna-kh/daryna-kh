@@ -26,21 +26,11 @@ Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
 ---
 
-## 📑 Table of Contents
-
-1. [Skills](#-skills)
-2. [Activity & Stats](#-activity--stats)
-3. [Featured Projects](#-featured-projects)
-4. [Other Metrics](#-other-metrics)
-5. [Contact & Socials](#-contact--socials)
-
----
-
 ## 🛠 Skills
 
 ### Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" />
   <img src="https://skillicons.dev/icons?i=css" alt="css" />
   <img src="https://skillicons.dev/icons?i=html" alt="html" />
@@ -53,7 +43,7 @@ Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
 ### Frameworks & Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react" alt="react" />
   <img src="https://skillicons.dev/icons?i=redux" alt="redux" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
@@ -69,7 +59,7 @@ Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
 ### Softwares
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
   <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" />
@@ -91,63 +81,34 @@ Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
 ### Contributions Calendar
 
-<p align="center">
-  <img src="./screens/contributions-calendar.svg" alt="Contributions calendar" width="600" />
-</p>
+- **2025**
+  <p>
+    <img src="./screens/contributions-2025.png" alt="Contributions calendar" width="600" />
+  </p>
+- **2024**
+  <p>
+    <img src="./screens/contributions-2024.png" alt="Contributions calendar" width="600" />
+  </p>
+- **2023**
+  <p>
+    <img src="./screens/contributions-2023.png" alt="Contributions calendar" width="600" />
+  </p>
 
-### GitHub Readme Stats
+- **2022**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=daryna-kh&show_icons=true&theme=radical)
-
-### GitHub Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=daryna-kh)
+  <p>
+    <img src="./screens/contributions-2022.png" alt="Contributions calendar" width="600" />
+  </p>
 
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daryna-kh&layout=compact)
 
-### Contributors Snapshot
-
-<p align="center">
-  <img src="./screens/contributors.png" alt="My contributors" width="600" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project          | Description                         | Link                                               |
-| ---------------- | ----------------------------------- | -------------------------------------------------- |
-| **Awesome App**  | A brief description of the project. | [GitHub](https://github.com/daryna-kh/awesome-app) |
-| **Cool Library** | What it does and why it's cool.     | [GitHub](https://github.com/daryna-kh/cool-lib)    |
-| **Portfolio**    | My personal portfolio website.      | [Website](https://daryna.dev)                      |
-
----
-
-## 🔧 Other Metrics & Utilities
-
-- **WakaTime Coding Stats**  
-  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=daryna-kh)
-
-- **GitHub Profile Trophy**  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=daryna-kh)
-
-- **Visitor Counter**  
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=daryna-kh.daryna-kh)
-
-- **LeetCode Stats** (если актуально)  
-  ![LeetCode](https://leetcard.jacoblin.cool/daryna-kh)
-
----
-
 ## 📫 Contact & Socials
 
-<p align="center">
-  <a href="mailto:your.email@example.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">🔗 LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle">🐦 Twitter</a> •
-  <a href="https://t.me/yourtelegram">💬 Telegram</a>
+<p>
+  <a href="mailto:darinabkh98@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/rinabkh/">🔗 LinkedIn</a> •
 </p>
 
 ---
