@@ -20,9 +20,9 @@
 
 Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
-- 🔭 I’m currently working on [Your Current Project](https://github.com/daryna-kh/usersManagement)
-- 🌱 I’m learning advanced TypeScript patterns & Rust
-- 💬 Ask me about JavaScript, Node.js, and frontend performance
+- 🔭 I’m currently working on [Users Management Interface](https://github.com/daryna-kh/usersManagement)
+- 🌱 I’m learning advanced TypeScript patterns
+- 💬 Ask me about JavaScript and frontend performance
 
 ---
 
