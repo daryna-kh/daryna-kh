@@ -84,7 +84,7 @@ Hi, I'm **Daryna**—a passionate developer who loves building things with code.
 
 ## 📊 Activity & Stats
 
-### Contributions Calendar
+### Tracking the Journey of Contributions
 
 - **2025**
   <p>
